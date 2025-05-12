@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bank">
+    <Position X="3.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAABAAAAAAAQAAAAAAAAAQAJABEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Bank.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="deposits" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Deposit">
+    <Position X="6.75" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EAAAEAAAAAAAAAAAAAAAAAAAAAEAAAABEAAAAAAAABA=</HashCode>
+      <FileName>Classes\Deposit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
