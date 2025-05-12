@@ -1,0 +1,14 @@
+C:\Programming\LW7\ConsoleApp1\bin\Debug\net8.0\LW7.exe
+C:\Programming\LW7\ConsoleApp1\bin\Debug\net8.0\LW7.deps.json
+C:\Programming\LW7\ConsoleApp1\bin\Debug\net8.0\LW7.runtimeconfig.json
+C:\Programming\LW7\ConsoleApp1\bin\Debug\net8.0\LW7.dll
+C:\Programming\LW7\ConsoleApp1\bin\Debug\net8.0\LW7.pdb
+C:\Programming\LW7\ConsoleApp1\obj\Debug\net8.0\LW7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\LW7\ConsoleApp1\obj\Debug\net8.0\LW7.AssemblyInfoInputs.cache
+C:\Programming\LW7\ConsoleApp1\obj\Debug\net8.0\LW7.AssemblyInfo.cs
+C:\Programming\LW7\ConsoleApp1\obj\Debug\net8.0\LW7.csproj.CoreCompileInputs.cache
+C:\Programming\LW7\ConsoleApp1\obj\Debug\net8.0\LW7.dll
+C:\Programming\LW7\ConsoleApp1\obj\Debug\net8.0\refint\LW7.dll
+C:\Programming\LW7\ConsoleApp1\obj\Debug\net8.0\LW7.pdb
+C:\Programming\LW7\ConsoleApp1\obj\Debug\net8.0\LW7.genruntimeconfig.cache
+C:\Programming\LW7\ConsoleApp1\obj\Debug\net8.0\ref\LW7.dll
