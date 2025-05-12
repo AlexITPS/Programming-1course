@@ -1,0 +1,10 @@
+C:\Programming\LW1\_453504_Ярцев\bin\Debug\_453504_Ярцев.exe.config
+C:\Programming\LW1\_453504_Ярцев\bin\Debug\_453504_Ярцев.exe
+C:\Programming\LW1\_453504_Ярцев\bin\Debug\_453504_Ярцев.pdb
+C:\Programming\LW1\_453504_Ярцев\obj\Debug\_453504_Ярцев.csproj.AssemblyReference.cache
+C:\Programming\LW1\_453504_Ярцев\obj\Debug\_453504_Ярцев.csproj.CoreCompileInputs.cache
+C:\Programming\LW1\_453504_Ярцев\obj\Debug\_453504_Ярцев.exe
+C:\Programming\LW1\_453504_Ярцев\obj\Debug\_453504_Ярцев.pdb
+C:\Programming\LW1\_453504_Ярцев\bin\Debug\AutoMapper.dll
+C:\Programming\LW1\_453504_Ярцев\bin\Debug\AutoMapper.xml
+C:\Programming\LW1\_453504_Ярцев\obj\Debug\_453504_.FDA6A260.Up2Date
